@@ -1,0 +1,13 @@
+main: net.minigameheaven.mhc.MHC
+name: MHC
+version: 0.0.1
+description: The core plugin behind Minigame Heaven
+api-version: 1.13
+author: RespDev
+website: www.minigameehaven.net
+commands:
+  setrank:
+    aliases: sr
+    description: Sets a players rank! 
+  lightning
+    description: Very crazy admin command!

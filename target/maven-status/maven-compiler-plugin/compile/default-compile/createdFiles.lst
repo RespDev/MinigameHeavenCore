@@ -1,0 +1,6 @@
+net\minigameheaven\mhc\rank\RankManager.class
+net\minigameheaven\mhc\commands\SetRankCommand.class
+net\minigameheaven\mhc\chat\ChatFormat.class
+net\minigameheaven\mhc\rank\Rank.class
+net\minigameheaven\mhc\listeners\PlayerJoin.class
+net\minigameheaven\mhc\MHC.class
